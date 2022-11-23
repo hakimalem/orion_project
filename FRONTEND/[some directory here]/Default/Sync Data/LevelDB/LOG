@@ -1,0 +1,3 @@
+2022/06/09-17:53:29.361 1f06 Reusing MANIFEST /home/youbway/orion-project/[some directory here]/Default/Sync Data/LevelDB/MANIFEST-000001
+2022/06/09-17:53:29.364 1f06 Recovering log #3
+2022/06/09-17:53:29.365 1f06 Reusing old log /home/youbway/orion-project/[some directory here]/Default/Sync Data/LevelDB/000003.log 

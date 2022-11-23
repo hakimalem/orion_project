@@ -1,0 +1,6 @@
+2022/06/09-17:53:29.367 5 Reusing MANIFEST /home/youbway/orion-project/[some directory here]/Default/Local Storage/leveldb/MANIFEST-000001
+2022/06/09-17:53:29.371 5 Recovering log #3
+2022/06/09-17:53:29.373 5 Reusing old log /home/youbway/orion-project/[some directory here]/Default/Local Storage/leveldb/000003.log 
+2022/06/09-23:06:22.330 12 Level-0 table #5: started
+2022/06/09-23:06:22.343 12 Level-0 table #5: 38057 bytes OK
+2022/06/09-23:06:22.368 12 Delete type=0 #3

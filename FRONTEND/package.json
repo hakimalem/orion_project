@@ -1,0 +1,63 @@
+{
+  "name": "orion",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@hookform/resolvers": "^2.8.10",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^13.0.0",
+    "@testing-library/user-event": "^13.2.1",
+    "@toast-ui/react-calendar": "^1.0.6",
+    "axios": "^0.27.2",
+    "chart.js": "^3.8.0",
+    "faker": "^6.6.6",
+    "joi": "^17.6.0",
+    "luxon": "^2.4.0",
+    "react": "^18.0.0",
+    "react-chartjs-2": "^4.1.0",
+    "react-confirm-alert": "^3.0.2",
+    "react-dom": "^18.0.0",
+    "react-form": "^4.0.1",
+    "react-hook-form": "^7.31.2",
+    "react-icons": "^4.3.1",
+    "react-joi": "^1.0.1",
+    "react-router-dom": "6",
+    "react-scripts": "5.0.1",
+    "react-select": "^5.3.2",
+    "react-table": "^7.8.0",
+    "react-toastify": "^9.0.4",
+    "reactjs-popup": "^2.0.5",
+    "tui-calendar": "^1.15.3",
+    "web-vitals": "^2.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/react-select": "^5.0.1",
+    "autoprefixer": "^10.4.5",
+    "postcss": "^8.4.12",
+    "tailwindcss": "^3.0.24"
+  }
+}

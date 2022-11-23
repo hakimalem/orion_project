@@ -1,0 +1,93 @@
+[
+  {
+    "_id": 1,
+    "classroom_name": "S4",
+    "type": "TD",
+    "cycle": 1,
+    "capacity": 30
+  },
+  {
+    "_id": 2,
+    "classroom_name": "TP5",
+    "type": "TP",
+    "cycle": 2,
+    "capacity": 30
+  },
+  {
+    "_id": 2,
+    "classroom_name": "S3",
+    "type": "TD",
+    "cycle": 2,
+    "capacity": 30
+  },
+  {
+    "_id": 3,
+    "classroom_name": "S2",
+    "type": "TD",
+    "cycle": 1,
+    "capacity": 30
+  },
+  {
+    "_id": 4,
+    "classroom_name": "S1",
+    "type": "TD",
+    "cycle": 2,
+    "capacity": 30
+  },
+  {
+    "_id": 5,
+    "classroom_name": "S7",
+    "type": "TD",
+    "cycle": 1,
+    "capacity": 30
+  },
+  {
+    "_id": 6,
+    "classroom_name": "AMPHI A",
+    "type": "AMPHI",
+    "cycle": 1,
+    "capacity": 120
+  },
+  {
+    "_id": 7,
+    "classroom_name": "S9",
+    "type": "TD",
+    "cycle": 1,
+    "capacity": 30
+  },
+  {
+    "_id": 8,
+    "classroom_name": "TP1",
+    "type": "TP",
+    "cycle": 1,
+    "capacity": 30
+  },
+  {
+    "_id": 9,
+    "classroom_name": "S4",
+    "type": "Td",
+    "cycle": 1,
+    "capacity": 30
+  },
+  {
+    "_id": 9,
+    "classroom_name": "S4",
+    "type": "Td",
+    "cycle": 1,
+    "capacity": 30
+  },
+  {
+    "_id": 10,
+    "classroom_name": "S4",
+    "type": "Td",
+    "cycle": 1,
+    "capacity": 30
+  },
+  {
+    "_id": 12,
+    "classroom_name": "S4",
+    "type": "Td",
+    "cycle": 1,
+    "capacity": 30
+  }
+]
